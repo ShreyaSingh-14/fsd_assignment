@@ -1,0 +1,26 @@
+{
+  "name": "fsd_assignment",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000o\u0000D\u0000B\u0000-\u0000a\u0000u\u0000t\u0000h\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyaSingh-14/fsd_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShreyaSingh-14/fsd_assignment/issues"
+  },
+  "homepage": "https://github.com/ShreyaSingh-14/fsd_assignment#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "i": "^0.3.7"
+  }
+}
